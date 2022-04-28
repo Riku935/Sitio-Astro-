@@ -21,7 +21,7 @@ Correo GitHub: exodo302.richy@gmail.com
 
 Correo academico: cdmx2001@amerike.edu.mx
 
-![Foto de perfil](/src/pages/posts/Assets/Perfil.jpg)
+![Foto de perfil](/public/assets/blog/Perfil.jpg)
 
 ```
 // Comandos para iniciar Astro
